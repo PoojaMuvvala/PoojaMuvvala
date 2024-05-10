@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, Pooja here 👋
 
 - **BI Developer & Data Enthusiast:** Passionate about leveraging data to drive insights and informed decision-making.
 - **SQL Expertise:** Proficient in crafting complex SQL queries to extract, transform, and analyze data efficiently.
